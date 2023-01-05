@@ -1,4 +1,8 @@
-# oatmeal_bot
+# THIS IS A DEAD PROJECT
+Dead APIs, security vulnerabilities, and the like have rendered this repo obsolete.
+The project is being continued in the [following fork.](https://github.com/veryLargeBiryani/mr-oats-revenge) 
+
+## oatmeal_bot
 bot to play music on discord.
 
 Mr oats needs read message, send message, connect, and speak permissions
